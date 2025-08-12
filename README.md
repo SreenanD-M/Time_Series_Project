@@ -1,0 +1,1 @@
+A data analytics project for analyzing and forecasting stock market trends using time series techniques. Implements ARIMA, SARIMA, Prophet, and LSTM models to study historical data, identify trends, seasonality, and make accurate short- and long-term predictions. Includes preprocessing, visualization, model evaluation, and result interpretation.
